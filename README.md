@@ -1,16 +1,23 @@
-## Hi there 👋
+## Hi there! I m Bavadharini Saravanan!👋   
 
-<!--
-**bavadharini09/bavadharini09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Computer and Communication Engineering student, graduating in 2026, with a strong interest in software engineering and front-end development. Passionate about building user-friendly interfaces and exploring emerging technologies.
 
-Here are some ideas to get you started:
+### 🌱 Currently Exploring
+- Front-end technologies and modern frameworks
+- Data analytics and visualization
+- Problem-solving with structured approaches
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Languages
+- C/C++
+- Python
+- JavaScript
+- HTML & CSS
+- Java
+- SQL
+
+### 📫 Connect with Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](#)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](#)  
+
+⚡ Always eager to learn and collaborate on exciting projects!
+
